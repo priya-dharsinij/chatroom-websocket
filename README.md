@@ -14,13 +14,13 @@ WebSocket is a communication protocol that makes it possible to establish a two-
 4. Users can post chat to all of the users in the chatroom
 
 # Getting started
-Have Java 1.8 installed
-Have maven package installed
-Clone the repository first
-git clone https://github.com/priya-dharsinij/chatroom-websocket.git
-Make sure http://localhost:8080 is available
-Run using command
-mvn spring-boot:run
+* Have Java 1.8 installed
+* Have maven package installed
+* Clone the repository first
+* git clone https://github.com/priya-dharsinij/chatroom-websocket.git
+* Make sure http://localhost:8080 is available
+* Run using command
+* mvn spring-boot:run
 
 # Testing code coverage (Selenium ChromeDriver)
 
