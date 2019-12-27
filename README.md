@@ -19,8 +19,7 @@ WebSocket is a communication protocol that makes it possible to establish a two-
 * Clone the repository first
 * git clone https://github.com/priya-dharsinij/chatroom-websocket.git
 * Make sure http://localhost:8080 is available
-* Run using command
-* mvn spring-boot:run
+* Run using command : mvn spring-boot:run
 
 # Testing code coverage (Selenium ChromeDriver)
 
